@@ -8,5 +8,5 @@ RUN pip3 install stim
 
 RUN pip3 install numpy scipy pymatching 
 
-RUN pip3 install git+https://github.com/JiakaiW/surface_erasure
+RUN pip3 install git+https://github.com/JiakaiW/surface_erasure_decoding
 
