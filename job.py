@@ -1,7 +1,8 @@
 import sys
 import json
 import pickle
-from surface_erasure_decoding import sur_v7_job
+import surface_erasure_decoding
+from surface_erasure_decoding import sur_job
 
 
 # This function can be run over condor
