@@ -1,2 +1,5 @@
 *.pkl
 *.zip
+*.zip
+*.txt
+.DS_Store
