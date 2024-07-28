@@ -1,3 +1,4 @@
 *.pkl
+*.err
 *.txt
 .DS_Store
