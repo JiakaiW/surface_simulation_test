@@ -1,0 +1,11 @@
+[
+    {
+        "job_id": "130f6779-1853-428e-9148-5bee7c423fe0",
+        "circuit_id": "11cdacc9-a01f-4b6b-b9c0-c8c5ddbb7d56",
+        "d": 5,
+        "p_e": 0.01,
+        "p_z_shift": 0.0,
+        "p_p": 0.001,
+        "p_m": 0.0,
+        "shots": 10000,
+        "num_e_flipped": 

@@ -10,4 +10,5 @@ RUN pip3 install numpy scipy pymatching
 
 RUN pip3 install git+https://github.com/JiakaiW/surface_erasure_decoding
 
-# docker build --no-cache -t surfacesimulationtest:v4 .
+# Use: in terminal run
+# docker build --no-cache -t surfacesimulationtest:v7 .
