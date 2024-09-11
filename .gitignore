@@ -1,4 +1,5 @@
-*.pkl
+erasure_decode_result_v2/
+erasure_decode_result_v2_additional_shots/
 *.err
 *.txt
 .DS_Store
