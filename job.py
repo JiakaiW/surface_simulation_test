@@ -1,7 +1,7 @@
 import sys
 import json
 import pickle
-import surface_erasure_decoding
+import EfficientSurfaceCodeSim
 
 
 # This function can be run over condor
